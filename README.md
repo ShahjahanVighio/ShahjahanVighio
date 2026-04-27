@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi There! I'm Shahjahan 👋
-### Software Engineer | Cybersecurity Specialist | AI/ML Developer 🚀
+### Software Engineer | Cybersecurity Enthusiast | AI & Automation Specialist 🚀
 
 [<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:shahjahanvighio1@gmail.com)
 [<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shah-jahan-136b68293/)
@@ -10,48 +10,47 @@
 
 ---
 
-### 👨‍💻 About Me
-[cite_start]Main **Salim Habib University** mein Computer Science ka student hoon (CGPA 3.69)[cite: 56, 57]. [cite_start]Filhal **Pixi Technologies** mein Junior Front-End Developer ke taur par kaam kar raha hoon[cite: 62]. Mera focus software innovation ko security aur AI ke saath integrate karne par hai.
+### 👨‍💻 Professional Summary
+[cite_start]I am a Computer Science student at **Salim Habib University** with a **3.69 CGPA** on the Dean's Honor List[cite: 4, 5, 52]. [cite_start]Currently, I serve as a **Junior Front-End Developer** at Pixi Technologies[cite: 10, 62]. [cite_start]My passion lies at the intersection of software innovation, AI-driven automation, and cybersecurity[cite: 49, 53, 54].
 
 * [cite_start]🏆 **1st Position** - All Pakistan FGEI Software Development Competition[cite: 45, 88].
-* [cite_start]🎓 **100% Merit Scholarship** holder aur **Dean's Honor List**[cite: 44, 87, 90].
-* [cite_start]🤖 Computer Vision aur Real-time systems development mein maharat rakhta hoon[cite: 77, 78].
+* [cite_start]🎓 **100% Merit Scholarship** recipient at Salim Habib University[cite: 44, 57, 87].
+* [cite_start]🛠️ Experienced in building scalable web applications and AI-driven simulation systems[cite: 52, 77, 78].
 
 ---
 
-### 🛠 Tools & Technologies
-
-#### 🛡️ Cybersecurity & Networking
-[cite_start]Aapki expertise security principles aur networking mein hai.
+### 🛡️ Cybersecurity & Systems
+[cite_start]I am dedicated to building secure environments and understanding network defense[cite: 49, 53, 54].
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,wireshark,powershell,bash,py" alt="Cybersecurity" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,wireshark,powershell,pwn,git" alt="Cybersecurity" />
 </p>
 
-#### 🧠 AI & Machine Learning
-[cite_start]Aapke computer vision aur real-time projects ke liye:
+### 🤖 AI, Machine Learning & Automation
+[cite_start]I focus on RAG-based systems, Computer Vision, and workflow automation.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,scikitlearn,anaconda" alt="AI/ML" />
 </p>
 
-#### 🌐 Full-Stack Development
-[cite_start]Aapki core development skills[cite: 80, 81, 82]:
+### 🌐 Full-Stack Development
+[cite_start]My technical foundation in modern web frameworks and databases[cite: 47, 80, 81, 82].
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwind,mongodb,mysql,supabase,prisma" alt="Web Dev" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwind,bootstrap,mongodb,mysql,supabase,prisma" alt="Web Dev" />
 </p>
 
 ---
 
-### 🚀 Key Projects
-* [cite_start]**Gesture Control System (AI/CV)**: Hand gesture detection aur tracking system jo computer vision aur Python se banaya gaya[cite: 33, 34, 76].
-* [cite_start]**fagnam.com**: SEO-optimized e-commerce solution jo WordPress aur WooCommerce par based hai[cite: 25, 71].
-* **AI Knowledge-Driven Social Content Engine**: RAG approach aur vector databases ka istemal karke banaya gaya engine.
+### 🚀 Featured Projects
+* **AI Knowledge-Driven Content Engine**: A RAG-based system using vector databases for automated social content.
+* [cite_start]**Gesture Control System**: A real-time hand gesture detection system built with Python and Computer Vision[cite: 33, 34, 76, 77].
+* [cite_start]**fagnam.com**: A fully responsive E-commerce business website built with WordPress and WooCommerce[cite: 24, 25, 71, 72].
+* **Lost and Found Portal**: A full-stack application featuring a NestJS backend and React frontend.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ShahjahanVighio&show_icons=true&theme=nord" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahjahanVighio&theme=nord" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShahjahanVighio&show_icons=true&theme=dark" alt="Shahjahan's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahjahanVighio&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
